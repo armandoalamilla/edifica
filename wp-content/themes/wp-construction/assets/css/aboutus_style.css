@@ -5,7 +5,7 @@ body{
 }
 @font-face {
     font-family: MBT;
-    src: url(https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/css/fonts/Mongolian Baiti.ttf);
+    src: url(fonts/Mongolian Baiti.ttf);
 }
 
 ::-moz-selection {
@@ -553,7 +553,7 @@ body{
 
 /*testimonial*/
 #testimonial-1.testimonial{
-	background-image: url('https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/img/tower-crane-climb-7.jpg');
+	background-image: url('../img/tower-crane-climb-7.jpg');
 	background-position: center center;
 	background-attachment:fixed;
 }
@@ -806,7 +806,7 @@ body{
 	transition:all ease 0.6s;
 }
 .team-bg{
-	background-image: url('https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/img/Construction-Backgrounds-1920x1080.jpg');
+	background-image: url('../img/Construction-Backgrounds-1920x1080.jpg');
 	background-color: rgba(0,0,0,0.5);
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -852,7 +852,7 @@ body{
 /**/
 /*testimonial*/
 #aboutus-2.construction-testimonial{
-	background-image:url('https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/img/testimonial2.jpg');
+	background-image:url('../img/testimonial2.jpg');
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -1125,7 +1125,7 @@ body{
 }
 .contact-info-2{
 	
-	background-image: url('https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/img/cs1.jpg');
+	background-image: url('../img/cs1.jpg');
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;	
@@ -2580,7 +2580,7 @@ a.carousel_readmore::before{
 	margin-right: 10px;
 }
 .team-staff-contact{
-	background-image: url('https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/css/assets/img/Construction-Backgrounds.jpg');
+	background-image: url('./assets/img/Construction-Backgrounds.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center center;
@@ -3247,7 +3247,7 @@ button:active{
 }
 /*error page*/
 .error-page{
-	background-image: url("https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/img/404 ERROR1.png");
+	background-image: url("../img/404 ERROR1.png");
 	background-size: cover;
 	background-position: center center;
 	padding: 100px 0;
@@ -3456,7 +3456,7 @@ button:active{
 /* footer indx-1*/
 #footer-1 .footer-background{
 	padding: 100px 0;
-	background-image: url('https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/css/assets/img/Buildings.png');
+	background-image: url('./assets/img/Buildings.png');
 	background-position: top center;
 	padding: 100px 0;
 	background-repeat: no-repeat;
@@ -3660,7 +3660,7 @@ button:active{
 }
 /*footer index-4*/
 #footer-2.footer{
-	background-image: url("https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/img/footer-4.jpg");
+	background-image: url("../img/footer-4.jpg");
 	background-attachment: scroll;
 	background-position: center center;
 	background-size: cover;

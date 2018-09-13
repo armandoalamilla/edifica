@@ -795,19 +795,19 @@ position: absolute;
 	background: rgba(255,255,255,0.8);
 }
  .bg-img-1 {
-	background-image: url(https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/img/Construction-Backgrounds.jpg);
+	background-image: url(./assets/img/Construction-Backgrounds.jpg);
 }
  .bg-img-2 {
-	background-image: url(https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/img/Construction-Backgrounds_2.jpg);
+	background-image: url(./assets/img/Construction-Backgrounds_2.jpg);
 }
  .bg-img-3 {
-	background-image: url(https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/img/Construction-Backgrounds-1920x1080.jpg);
+	background-image: url(./assets/img/Construction-Backgrounds-1920x1080.jpg);
 }
  .bg-img-4 {
-	background-image: url(https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/img/construction_helmet_arm_80718_1920x1080.jpg);
+	background-image: url(./assets/img/construction_helmet_arm_80718_1920x1080.jpg);
 }
 .bg-img-5 {
-	background-image: url(https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/images/5.jpg);
+	background-image: url(./assets/images/5.jpg);
 }
 
 /* Animations for content elements */
@@ -2155,15 +2155,15 @@ position: fixed;
 /*@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');*/
 @font-face {
     font-family: Montserrat-thin;
-    src: url(https://https://armandoalamilla.github.io/edifica/wp-content/themes/fonts/Montserrat/Montserrat-Thin.ttf);
+    src: url(../fonts/Montserrat/Montserrat-Thin.ttf);
 }
 @font-face {
     font-family: Montserrat;
-    src: url(https://https://armandoalamilla.github.io/edifica/wp-content/themes/fonts/Montserrat/Montserrat-Light.ttf);
+    src: url(../fonts/Montserrat/Montserrat-Light.ttf);
 }
 @font-face {
     font-family: Montserrat-ExtraLight;
-    src: url(https://https://armandoalamilla.github.io/edifica/wp-content/themes/fonts/Montserrat/Montserrat-ExtraLight.ttf);
+    src: url(../fonts/Montserrat/Montserrat-ExtraLight.ttf);
 }
 
 /* .index-info-bar{
@@ -3124,7 +3124,7 @@ a img.aligncenter {
 /*footer*/
 .footer-background{
 	padding: 100px 0;
-	background-image: url('https://https://armandoalamilla.github.io/edifica/wp-content/themes/wp-construction/assets/img/Buildings.png');
+	background-image: url('./assets/img/Buildings.png');
 	background-position: top center;
 	padding: 100px 0;
 	background-repeat: no-repeat;

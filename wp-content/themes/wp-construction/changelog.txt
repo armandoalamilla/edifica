@@ -1,0 +1,8 @@
+changelog:
+
+Version 0.58 [13-09-2018]
+1. Screen-shot updated after reviwer Guidance .
+
+Version 0.57 [11-09-2018]
+1. Screenshot updated
+2. Upgrade to pro option added
